@@ -21,7 +21,7 @@ You must leave the warning box and remove this message if including this section
 </div>
 Sometimes a pattern if not followed or aware of what not to do to fix something may result in some drastic consequences. Use this optional section here to outline those details.
 
-## Addtional information (otpional)
+## Addtional information (optional)
 If you have any other relevant information to the topic of the rule that's not applicable elsewhere, please include it here.
 
 ## Version 
