@@ -14,6 +14,7 @@ Include incorrect coding or configuration examples here, please be as visual as 
 There can be multiple options included of what is acceptable. Sometimes there will be prefered examples but in some circumstances any good examples will be better than nobody following no practices and not renaming components for example. Again, please be as visual as possible.
 
 ## Problematic patterns (optional)
+You must leave the warning box and remove this message if including this section.
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 <p><b>Warning</b></p>
 <p>These patterns should be avoided</p>
